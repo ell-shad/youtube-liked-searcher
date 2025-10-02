@@ -6,6 +6,10 @@
 
 A desktop application to search and browse your YouTube liked videos with advanced filtering and sorting capabilities.
 
+## ⚠️ Disclaimer
+
+The application and this repository have been created using AI tool, Claude. Human review and some modifications were done, however caution to be takne before further use.
+
 ![Main Window](docs/screenshots/main-window.png)
 
 ## ✨ Features
